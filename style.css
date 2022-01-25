@@ -35,3 +35,11 @@ body{
 
     border-radius: 10px;
 }
+.button-colour{
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 5px 10px;
+    /* background-image: linear-gradient(to bottom, #f1dfe6 0%, #c79dad 100%); */
+    background-color: #F496D1;
+}
