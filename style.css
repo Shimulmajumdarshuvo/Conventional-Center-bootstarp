@@ -3,3 +3,10 @@
 body{
     font-family: 'Poppins', sans-serif;
 }
+.panda-btn-buy-now{
+    color: white;
+    border-radius: 8px;
+    border: none;
+    padding: 9px 25px;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
