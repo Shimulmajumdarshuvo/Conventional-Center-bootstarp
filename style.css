@@ -10,3 +10,7 @@ body{
     padding: 9px 25px;
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
 }
+.trandform-part{
+    transform:translateY(-5%);
+
+}
